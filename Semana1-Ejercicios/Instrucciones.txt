@@ -1,0 +1,41 @@
+Semana 1: Fundamentos C# - Pack de Ejercicios
+
+Objetivo: Familiarizarte con la sintaxis básica, estructuras de control y clases simples.
+
+1. Calculadora Básica
+	Descripción: Hacé un programa en consola que permita al usuario elegir una operación.
+		     (suma resta, multiplicación, división) e ingrese 2 números.
+	   	     Luego, que imprima el resultado
+	Requisitos:
+		-Uso de if o switch.
+		-Validar división por cero.
+
+2. Contador de Vocales
+	Descripción: El usuario ingresa una frase y el programa cuenta cuántas vocales tiene
+
+3. Adivina el número
+	Descripción: Generá un número aleatorio entre 1 y 100. 
+		El usuario debe adivinarlo y el programa le da pistas: "mayor" o "menor".
+
+4. Agenda Simple (POO Básico)
+	Descripción:
+		Crea una clase Contacto con nombre y teléfono.
+		Permití al usuario:
+			-Agregar contactos.
+			-Listar todos los contactos.
+
+5. Sistema de números pares
+	Descripción:
+		El usuario ingresa una lista de números separados por comas. Mostrar sólo los números pares usando un bucle
+		foreach.
+
+Recursos de esta semana:
+
+1. Microsoft Docs - Fundamentos:
+	https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/
+2. Tutorial básico C#:
+	https://www.w3schools.com/cs/index.php
+3. Instalación de entorno (si no lo tenes)
+	-Visual Studio 2022 Community Edition
+	-.NET 8 SDK (última versión)
+	- Git + cuenta GitHub
